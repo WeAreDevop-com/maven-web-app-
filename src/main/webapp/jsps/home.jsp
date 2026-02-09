@@ -11,10 +11,15 @@
 <body>
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to WeAreDevop-com.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
-	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
-	We offer interview preparations and job assitance.
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
+	Using a load balancer to spread load across multiple downstream instances offers several advantages:
+•	Provides a single point of access to your applications.
+•	Seamlessly handles failures of downstream instances through health check mechanisms.
+•	Supports health checks to determine instance availability.
+•	Provides SSL termination for HTTPS encrypted traffic.
+•	Enforces stickiness with cookies.
+•	Ensures high availability across zones.
+•	Separates public traffic from private traffic in your cloud environment
+  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
