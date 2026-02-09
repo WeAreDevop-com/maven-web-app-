@@ -64,8 +64,6 @@ To create an ASG, you need to define a launch template. Previously, launch confi
 •	Security groups
 •	SSH key pair
 •	IAM roles
-•	Network and subnet information
-•	Load balancer information
   HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
