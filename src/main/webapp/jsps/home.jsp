@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to WeAreDevop-com.
-	Using a load balancer to spread load across multiple downstream instances offers several advantages:
+	Using a load balancer to spread load across multiple downstream instances offers several advantages:God never fails.
   HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
