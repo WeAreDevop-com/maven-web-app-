@@ -133,11 +133,10 @@
 					</webApp>
 				</configuration>
 			</plugin>
-
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-eclipse-plugin</artifactId>
-				<version>2.9</version>
+<plugin>
+  <artifactId>maven-war-plugin</artifactId>
+  <version>3.3.2</version>
+</plugin>
 				<configuration>
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
