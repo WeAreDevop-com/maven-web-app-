@@ -1,4 +1,4 @@
-FROM tomcat:8.0.20-jre8
+FROM tomcat:9.0-jdk17-temurin
 # Dummy text to test 
 # testing Github webhook is working
 # automation
